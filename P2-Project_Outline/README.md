@@ -12,7 +12,7 @@ So don't worry if you feel unsure about some aspects of the outline or if you ha
 Our project is an executive functioning intervention resource site ("Name goes here") dedicated to providing 
 access to a complex intervention glossary in order to address behavioral needs. 
 
-The heart of this web app is a database of hundreds of interventions. Users will be able to find interventions,
+The heart of this web app is a database of interventions. Users will be able to find interventions,
 record data on the interventions they've tried, and log in to curate a personal list of interventions for a particular student.
 
 This project was conceived with a desire to easily and informally help people navigate situations in their work world,

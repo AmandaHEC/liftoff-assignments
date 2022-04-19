@@ -7,13 +7,13 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
-
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+-![Login Page Wireframe](https://user-images.githubusercontent.com/93448955/164061010-ff8f9808-54ae-4e84-b657-51bbeb8e8d81.png)
 
 ### Project Tracker
+-![Trello](https://trello.com/c/KjsuRDim/3-next)
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+-![GitHub](https://github.com/AmandaHEC/liftoff-assignments/tree/master/P3-Project_Planning)
+

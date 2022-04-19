@@ -13,8 +13,8 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Project Tracker
 
--![Trello](https://trello.com/c/KjsuRDim/3-next)
+-[Trello](https://trello.com/c/KjsuRDim/3-next)
 
 ### Project Repo Link
 
--![GitHub](https://github.com/AmandaHEC/liftoff-assignments/tree/master/P3-Project_Planning)
+-[GitHub](https://github.com/AmandaHEC/liftoff-assignments/tree/master/P3-Project_Planning)

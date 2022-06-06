@@ -9,4 +9,5 @@ We want to you to create a set of presentation slides summarizing your project.
 ### Presentation
 Upload a .PDF of your presentation here for review.
 
-file:///Users/amandastokes/Downloads/Tom%20H%20Group%20-Project%20Presentation.pdf
+
+https://docs.google.com/presentation/d/1vZWKBESOQb1wdPgN8EiRENjjz0IcTTQPHoyVsEzCY7E/edit?usp=sharing
